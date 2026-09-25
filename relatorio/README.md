@@ -8,9 +8,13 @@ declaração de uso de IA), base de dados, análise exploratória, pré-processa
 referências e Anexo A (prompts de IA). Numeração de página oculta na capa e na folha de
 rosto, visível a partir do Resumo (página 3).
 
-Link do notebook (Google Colab / Drive, "Qualquer pessoa com o link — Leitor") já inserido
-no relatório, logo após o Resumo:
+Link do notebook (Google Colab / Drive, "Qualquer pessoa com o link — Leitor") clicável no
+relatório, logo após o Resumo:
 https://drive.google.com/file/d/1ze66NEBIOIpYM8eBBGO-6aeyMGnDk7GY/view?usp=sharing
+
+Todos os links do documento (notebook, dataset do UCI, DOI) são hyperlinks clicáveis. O link
+do repositório GitHub foi removido do relatório (o GitHub é só apoio de versionamento, não é
+exigido pelo edital).
 
 **Status: relatório 100% pronto para envio.**
 
